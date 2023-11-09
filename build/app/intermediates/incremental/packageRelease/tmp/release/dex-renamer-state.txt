@@ -1,0 +1,4 @@
+#Thu Nov 09 23:28:28 MSK 2023
+base.0=/Users/macdev/Documents/dev/list_of_articles/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
